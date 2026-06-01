@@ -53,6 +53,12 @@
     └── ratings.dat    # MovieLens 1M 评分数据
 ```
 
+数据集下载地址如下：
+
+```
+https://grouplens.org/datasets/movielens/1m/
+```
+
 代码默认读取的数据路径为：
 
 ```python
